@@ -102,7 +102,7 @@ ipfs: "ipfs_hash"
  
 **$SSP_Token** - When a Smart Streaming Platform initializes the Smart Contract, the platform can issue its own token that can be used for royalty payments, membership fee, tipping etc.
 
-**Custom Inflation** - In order to pay the artists in $SSP_Token, a daily reward pool must be created that results in inflation of $SSP_Token supply. The inflation percentage can be customized during the initialization. 
+**Custom Inflation** - In order to pay the artists in $SSP_Token, a daily reward pool must be created that results in inflation of $SSP_Token supply. We will provide multiple strategies for the user and the inflation percentage can be customized during the initialization. 
 
 **Smart Record Contracts (SRC)** - Artists can create Smart Record Contracts for each song, containing meta data such as song name, license and the wallet information of multiple stakeholders.
 
@@ -140,7 +140,7 @@ There are currently no other projects in the Substrate ecosystem that are solvin
 * Phalgun Shenoy
 * John Fortner
 * Suraj Kumar
-* Thandile Nododile
+* Pranshu Rastogi
 
 ### Contact
 * **Contact Name:** Phalgun Shenoy
@@ -173,12 +173,10 @@ There are currently no other projects in the Substrate ecosystem that are solvin
 * Waves Tech Ambassador
 * Specialities: Javascript, Rust, Python & C++
  
-### Thandile Nododile
-* Polkadot Ambassador - South Africa
-* BSc. Mathematics & Statistical Sciences with Computer Sciences 
-* Experimenting with substrate framework through PolkaMusic
-* Rust language enthusiast.
-
+### Pranshu Rastogi
+* Blockchain developer
+* Data Scientist
+* Bachelor of Technology (B.Tech.) Computer Science
 
 ### Team Code Repos
 * PolkaMusic -> https://github.com/polkamusic/PolkaMusic
@@ -188,7 +186,7 @@ There are currently no other projects in the Substrate ecosystem that are solvin
 * https://www.linkedin.com/in/shenoyphalgun/
 * https://www.linkedin.com/in/johnfortner/ 
 * https://www.linkedin.com/in/s5k0651/
-* https://github.com/nododile 
+* https://www.linkedin.com/in/rastogipranshu/
 
 ## Development Status :open_book: 
 
