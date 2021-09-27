@@ -10,7 +10,7 @@
 
 ### Overview
 
-PolkaMusic is a substrate based public chain crafted exclusively for operating decentralized music businesses on blockchain. While PolkaMusic.io is a decentralized streaming platform by itself, it is envisioned as a 360 infrastructure for decentralized music using which music entrepreneurs can not only create their own micro-economy for their music platform, but also leverage the ever growing list of features such as NFT, crowdfunding, decentralized storage and more. PolkaMusic also allows existing music blockchains to connect to the Polkadot ecosystem in order to interconnect siloed music economies and enables interoperability, wherever possible. 
+PolkaMusic is a substrate based public chain crafted exclusively for operating decentralized music businesses on blockchain. PolkaMusic is envisioned as a 360 infrastructure for decentralized music using which music entrepreneurs can not only create their own micro-economy for their music platform, but also leverage the ever growing list of features such as NFT, crowdfunding, decentralized storage and more. PolkaMusic also allows existing music blockchains to connect to the Polkadot ecosystem in order to interconnect siloed music economies and enables interoperability, wherever possible. 
 
 PolkaMusic is trying to solve 3 major problems that is unique to the music industry:
 
@@ -145,8 +145,8 @@ There are currently no other projects in the Substrate ecosystem that are solvin
 ### Contact
 * **Contact Name:** Phalgun Shenoy
 * **Contact Email:** shenoy@polkamusic.io
-* **Website:** https://polkamusic.io / https://bitcoinmusic.org 
-* **Telegram:** @polkashenoy
+* **Website:** https://polkamusic.io
+* **Telegram:** @cryptoshenoy
 * **LinkedIn:** https://www.linkedin.com/in/shenoyphalgun/
 
 ### Legal Structure 
